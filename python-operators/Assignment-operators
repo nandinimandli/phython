@@ -1,0 +1,11 @@
+# Initialize the variable
+total = 10
+
+# Update the value of total using assignment operators
+total += 5  # Adds 5 to total
+total -= 3  # Subtracts 3 from total
+total *= 2  # Multiplies total by 2
+total /= 4  # Divides total by 4
+
+# Print the final value of total
+print(f"The final value of total is: {total}")

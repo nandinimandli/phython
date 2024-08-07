@@ -1,0 +1,19 @@
+# Define the variables
+a = 15
+b = 4
+
+# Perform comparisons
+less_than = a < b
+greater_than = a > b
+less_than_or_equal = a <= b
+greater_than_or_equal = a >= b
+equal_to = a == b
+not_equal_to = a != b
+
+# Print the results
+print(f"{a} < {b} is: {less_than}")
+print(f"{a} > {b} is: {greater_than}")
+print(f"{a} <= {b} is: {less_than_or_equal}")
+print(f"{a} >= {b} is: {greater_than_or_equal}")
+print(f"{a} == {b} is: {equal_to}")
+print(f"{a} != {b} is: {not_equal_to}")

@@ -1,0 +1,15 @@
+# Define the boolean variables
+x = True
+y = False
+
+# Perform logical operations
+and_result = x and y
+or_result = x or y
+not_x = not x
+not_y = not y
+
+# Print the results
+print(f"x and y is: {and_result}")
+print(f"x or y is: {or_result}")
+print(f"not x is: {not_x}")
+print(f"not y is: {not_y}")

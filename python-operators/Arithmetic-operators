@@ -1,0 +1,22 @@
+# Define the variables
+a = 15
+b = 4
+
+# Calculate sum
+sum_ab = a + b
+
+# Calculate difference
+difference_ab = a - b
+
+# Calculate product
+product_ab = a * b
+
+# Calculate quotient
+# Using float division to get a decimal result
+quotient_ab = a / b
+
+# Print the results
+print(f"Sum of {a} and {b} is: {sum_ab}")
+print(f"Difference between {a} and {b} is: {difference_ab}")
+print(f"Product of {a} and {b} is: {product_ab}")
+print(f"Quotient of {a} divided by {b} is: {quotient_ab}")
