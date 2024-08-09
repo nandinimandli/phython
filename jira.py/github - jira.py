@@ -1,9 +1,9 @@
 # This code sample uses the 'requests' library:
 # http://docs.python-requests.org
-import requests
-from requests.auth import HTTPBasicAuth
+import requests # type: ignore
+from requests.auth import HTTPBasicAuth # type: ignore
 import json
-from flask import Flask
+from flask import Flask # type: ignore
 
 app = Flask(__name__)
 
